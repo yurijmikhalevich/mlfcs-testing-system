@@ -1,0 +1,1 @@
+MLOKSTestingSystem is testing system written for KubSAU students, learning mathematical and logical foundations of computer systems. Now it available only in Russian and hard-coded for Windows-1251 encoding.
